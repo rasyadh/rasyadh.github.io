@@ -7,17 +7,12 @@
     "background_color": "#3273dc",
     "icons": [
         {
-            "src": "favicon.png",
-            "sizes": "96x96",
-            "type": "image/png"
-        },
-        {
-            "src": "favicon.png",
+            "src": "assets/image/icons/rsdh-logo-1.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "favicon.png",
+            "src": "assets/image/icons/rsdh-logo-2.png",
             "sizes": "192x192",
             "type": "image/png"
         }
