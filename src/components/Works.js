@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Multiband from '../assets/image/works/multiband.png';
 import Sepatumu from '../assets/image/works/sepatumu.png';
 import CodeRealm from '../assets/image/works/coderealm.png';
