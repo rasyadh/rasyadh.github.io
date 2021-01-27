@@ -69,7 +69,7 @@ export default {
         "It’s a platform where you can find any item that you cannot get inside your country, from snacks, fashion item to exclusive merchandise hand carried by trustworthy travellers and sent it to your home.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "http://www.needtip.co/public/assets/img/bg/group-2.jpg",
+        "https://play-lh.googleusercontent.com/uShUZDHSZ4oZv3aJKwMVMDuKKgZMhMdYz3N_Gky8ccvLqj6c7Cu_LiO_-FOKy1l_ZLM=s360-rw",
       //Project URL - Add Your Project Url Here
       url: "http://www.needtip.co",
     },
@@ -99,7 +99,7 @@ export default {
       id: 6, //DO NOT CHANGE THIS (Please)😅
       title: "Surabaya Icon Monoline Design", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Iconic place, statue, and monument in Surabaya.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://mir-s3-cdn-cf.behance.net/projects/404/3f042c47733977.Y3JvcCwyNTYzLDIwMDYsMTcyMSww.jpg",
@@ -123,10 +123,10 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Hi, i'm a software engineer with speciality on iOS app development. Love to code and passionate to build a great user interface for solving problems. Very excited and curious to learn something new.",
+    "Hi, i'm a software engineer with speciality on iOS app development. Love to code and passionate to build a great user interface and experience on mobile platform. Very excited and curious to learn something new.",
   aboutParaTwo:
-    "Currently working as iOS Engineer, and it has been that way for a couple of years.",
-  aboutParaThree: "May the force be with you.",
+    "Even so, I kinda have a love-hate relationship with coding, but I think everyone has too.",
+  aboutParaThree: "Currently working as iOS Engineer, and it has been that way for a couple of years.",
   aboutImage:
     photo,
 
